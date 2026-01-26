@@ -4,8 +4,8 @@
   <title>一点兴趣</title>
   </head>
   <body>
-      <outline text="DOTA每日节奏" type="rss" xmlUrl="http://wewe-rss.x6o4.com/feeds/MP_WXS_3014109564.atom" htmlUrl="http://wewe-rss.x6o4.com/feeds/MP_WXS_3014109564.atom"/>
-      <outline text="豆瓣最受欢迎的书评" type="rss" xmlUrl="https://plink.anyfeeder.com/douban/review/book" htmlUrl="https://book.douban.com/review/book_best/" description="豆瓣成员投票选出的最佳书评"/>
-      <outline text="豆瓣最受欢迎的影评" type="rss" xmlUrl="https://plink.anyfeeder.com/douban/review/movie" htmlUrl="https://movie.douban.com/review/movie_best/" description="豆瓣成员投票选出的最佳影评"/>
+      <outline text="微博热搜榜" title="微博热搜榜" xmlUrl="https://rsshub.umzzz.com/weibo/search/hot/fulltext" htmlUrl="https://s.weibo.com/top/summary?cate=realtimehot" type="rss"></outline>
+      <outline text="华语口碑剧集榜" title="华语口碑剧集榜" xmlUrl="https://rsshub.umzzz.com/douban/movie/weekly/tv_chinese_best_weekly" htmlUrl="https://m.douban.com/subject_collection/tv_chinese_best_weekly" type="rss"></outline>
+      <outline text="全球口碑剧集榜" title="全球口碑剧集榜" xmlUrl="https://rsshub.umzzz.com/douban/list/tv_global_best_weekly" htmlUrl="https://m.douban.com/subject_collection/tv_global_best_weekly" type="rss"></outline>
   </body>
 </opml>
