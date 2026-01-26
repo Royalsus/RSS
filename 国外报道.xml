@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+  <title>国外报道</title>
+  </head>
+  <body>
+      <outline text="Al Jazeera" type="rss" xmlUrl="https://www.aljazeera.com/xml/rss/all.xml" htmlUrl="https://www.aljazeera.com/" description="Breaking News, World News and Video from Al Jazeera"/>
+      <outline text="BBC/Top Stories" type="rss" xmlUrl="https://plink.anyfeeder.com/bbc" htmlUrl="https://www.bbc.co.uk/news" description="BBC News - News Front Page"/>
+      <outline text="bellingcat" type="rss" xmlUrl="https://www.bellingcat.com/feed/" htmlUrl="https://www.bellingcat.com/" description="the home of online investigations"/>
+      <outline text="DER SPIEGEL" type="rss" xmlUrl="https://www.spiegel.de/international/index.rss" htmlUrl="https://www.spiegel.de/" description="Deutschlands führende Nachrichtenseite. Alles Wichtige aus Politik, Wirtschaft, Sport, Kultur, Wissenschaft, Technik und mehr."/>
+      <outline text="English - VICE" type="rss" xmlUrl="https://plink.anyfeeder.com/vice" htmlUrl="https://www.vice.com/en/"/>
+      <outline text="ProPublica" type="rss" xmlUrl="https://www.propublica.org/feeds/propublica/main" htmlUrl="https://www.propublica.org/" description="Latest Articles and Investigations from ProPublica, an independent, non-profit newsroom that produces investigative journalism in the public interest."/>
+      <outline text="The Intercept" type="rss" xmlUrl="https://theintercept.com/feed/?rss" htmlUrl="https://theintercept.com/"/>
+      <outline text="TIME" type="rss" xmlUrl="https://plink.anyfeeder.com/time" htmlUrl="https://time.com/" description="Breaking news and analysis from time.com. Politics, world news, photos, video, tech reviews, health, science, and entertainment news."/>
+      <outline text="彭博社最新报道" type="rss" xmlUrl="https://bloombergnew.buzzing.cc/feed.xml" htmlUrl="https://bloombergnew.buzzing.cc/feed.json" description="用中文浏览彭博社最新报道"/>
+      <outline text="联合早报-中港台" type="rss" xmlUrl="https://plink.anyfeeder.com/zaobao/realtime/china" htmlUrl="https://www.zaobao.com/realtime/china" description="新加坡、中国、亚洲和国际的即时、评论、商业、体育、生活、科技与多媒体新闻，尽在联合早报。 - Powered by RSSHub"/>
+      <outline text="联合早报-国际" type="rss" xmlUrl="https://plink.anyfeeder.com/zaobao/realtime/world" htmlUrl="https://www.zaobao.com/realtime/world" description="新加坡、中国、亚洲和国际的即时、评论、商业、体育、生活、科技与多媒体新闻，尽在联合早报。 - Powered by RSSHub"/>
+  </body>
+</opml>

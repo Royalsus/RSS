@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+  <title>一点兴趣</title>
+  </head>
+  <body>
+      <outline text="DOTA每日节奏" type="rss" xmlUrl="http://wewe-rss.x6o4.com/feeds/MP_WXS_3014109564.atom" htmlUrl="http://wewe-rss.x6o4.com/feeds/MP_WXS_3014109564.atom"/>
+      <outline text="豆瓣最受欢迎的书评" type="rss" xmlUrl="https://plink.anyfeeder.com/douban/review/book" htmlUrl="https://book.douban.com/review/book_best/" description="豆瓣成员投票选出的最佳书评"/>
+      <outline text="豆瓣最受欢迎的影评" type="rss" xmlUrl="https://plink.anyfeeder.com/douban/review/movie" htmlUrl="https://movie.douban.com/review/movie_best/" description="豆瓣成员投票选出的最佳影评"/>
+  </body>
+</opml>

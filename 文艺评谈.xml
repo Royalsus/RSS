@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+  <title>文艺评谈</title>
+  </head>
+  <body>
+<outline text="世界文坛" type="rss" xmlUrl="https://rsshub.app/chinawriter/404085" htmlUrl="http://www.chinawriter.com.cn/404085/"/>
+      <outline text="争鸣" type="rss" xmlUrl="https://rsshub.app/chinawriter/404029/404033" htmlUrl="http://www.chinawriter.com.cn/404029/404033/"/>
+      <outline text="创作谈" type="rss" xmlUrl="https://rsshub.app/chinawriter/404029/404032" htmlUrl="http://www.chinawriter.com.cn/404029/404032/"/>
+      <outline text="文史" type="rss" xmlUrl="https://rsshub.app/chinawriter/404057" htmlUrl="http://www.chinawriter.com.cn/404057/"/>
+      <outline text="文学奖项" type="rss" xmlUrl="https://rsshub.app/chinawriter/403973" htmlUrl="http://www.chinawriter.com.cn/403973/"/>
+      <outline text="文学评论" type="rss" xmlUrl="https://rsshub.app/chinawriter/404029/404030" htmlUrl="http://www.chinawriter.com.cn/404029/404030/"/>
+      <outline text="纪妖" type="rss" xmlUrl="https://rsshub.app/cbaigui" htmlUrl="https://cbaigui.com/" description="纪妖官方网站，收录中华上下具有历史意义的怪力乱神文化，包括但不仅限于妖，怪，神，魔，鬼，精，仙等，纪妖网带你了解古今中外不同的文化知识。 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="艺术" type="rss" xmlUrl="https://rsshub.app/chinawriter/404002" htmlUrl="http://www.chinawriter.com.cn/404002/" description="艺术频道下设影视、舞台、人物、展览、书画、文博、非遗、评论等8个栏目，基本囊括了所有艺术门类的重要新闻、评论。艺术频道页面改版之后，用多达20余处的图片位，向读者全面展示了当代丰富多彩的艺术风貌。其中作家书画设于书画栏目之下，旨在给有书画兴趣和特长的作家予展示平台。 - Powered by RSSHub"/>
+      <outline text="访谈" type="rss" xmlUrl="https://rsshub.app/chinawriter/403997" htmlUrl="http://www.chinawriter.com.cn/403997/"/>
+      <outline text="飞地·对话" type="rss" xmlUrl="https://rsshub.app/enclavebooks/category/16" htmlUrl="https://www.enclavebooks.cn/" description="举起手来，说出你的秘密 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="飞地·影像" type="rss" xmlUrl="https://rsshub.app/enclavebooks/category/9" htmlUrl="https://www.enclavebooks.cn/" description="当代视听艺术作品 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="飞地·艺术" type="rss" xmlUrl="https://rsshub.app/enclavebooks/category/15" htmlUrl="https://www.enclavebooks.cn/" description="当代艺术家推介 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="飞地·视觉" type="rss" xmlUrl="https://rsshub.app/enclavebooks/category/2" htmlUrl="https://www.enclavebooks.cn/" description="看得见的丰富 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="飞地·音乐" type="rss" xmlUrl="https://rsshub.app/enclavebooks/category/14" htmlUrl="https://www.enclavebooks.cn/" description="乐曲与歌谣 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+  </body>
+</opml>
