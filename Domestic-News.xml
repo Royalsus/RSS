@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+  <title>国内新闻</title>
+  </head>
+  <body>
+      <outline text="人民日报" type="rss" xmlUrl="https://plink.anyfeeder.com/people-daily" htmlUrl="http://www.people.com.cn/" description="人民日报全文RSS。获取更多全文RSS：https://feedx.net"/>
+      <outline text="南方周末" type="rss" xmlUrl="https://plink.anyfeeder.com/infzm/news" htmlUrl="https://www.infzm.com/"/>
+      <outline text="参考消息" type="rss" xmlUrl="https://plink.anyfeeder.com/weixin/ckxxwx" htmlUrl="https://china.cankaoxiaoxi.com/#/generalColumns/gj"/>
+      <outline text="央视新闻" type="rss" xmlUrl="https://plink.anyfeeder.com/weixin/cctvnewscenter" htmlUrl="https://news.cctv.com/world"/>
+      <outline text="新华社" type="rss" xmlUrl="https://plink.anyfeeder.com/newscn/whxw" htmlUrl="http://www.news.cn/xhsxw.htm" description="新华社新闻 - Powered by RSSHub"/>
+      <outline text="澎湃新闻" type="rss" xmlUrl="https://plink.anyfeeder.com/thepaper" htmlUrl="https://m.thepaper.cn/"/>
+      <outline text="界面新闻" type="rss" xmlUrl="https://plink.anyfeeder.com/jiemian/news" htmlUrl="https://www.jiemian.com/lists/801.html"/>
+  </body>
+</opml>
