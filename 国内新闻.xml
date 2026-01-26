@@ -4,12 +4,9 @@
   <title>国内新闻</title>
   </head>
   <body>
-      <outline text="人民日报" type="rss" xmlUrl="https://plink.anyfeeder.com/people-daily" htmlUrl="http://www.people.com.cn/" description="人民日报全文RSS。获取更多全文RSS：https://feedx.net"/>
-      <outline text="南方周末" type="rss" xmlUrl="https://plink.anyfeeder.com/infzm/news" htmlUrl="https://www.infzm.com/"/>
-      <outline text="参考消息" type="rss" xmlUrl="https://plink.anyfeeder.com/weixin/ckxxwx" htmlUrl="https://china.cankaoxiaoxi.com/#/generalColumns/gj"/>
-      <outline text="央视新闻" type="rss" xmlUrl="https://plink.anyfeeder.com/weixin/cctvnewscenter" htmlUrl="https://news.cctv.com/world"/>
-      <outline text="新华社" type="rss" xmlUrl="https://plink.anyfeeder.com/newscn/whxw" htmlUrl="http://www.news.cn/xhsxw.htm" description="新华社新闻 - Powered by RSSHub"/>
-      <outline text="澎湃新闻" type="rss" xmlUrl="https://plink.anyfeeder.com/thepaper" htmlUrl="https://m.thepaper.cn/"/>
-      <outline text="界面新闻" type="rss" xmlUrl="https://plink.anyfeeder.com/jiemian/news" htmlUrl="https://www.jiemian.com/lists/801.html"/>
+      <outline text="澎湃新闻" title="澎湃新闻" xmlUrl="https://rsshub.umzzz.com/thepaper/featured" htmlUrl="https://m.thepaper.cn/" type="rss"></outline><outline text="南方周末-新闻" title="南方周末-新闻" xmlUrl="https://rsshub.umzzz.com/infzm/2" htmlUrl="https://www.infzm.com/contents?term_id=2" type="rss"></outline>
+      <outline text="参考消息-国际" title="参考消息-国际" xmlUrl="https://rsshub.umzzz.com/cankaoxiaoxi/column/gj" htmlUrl="https://china.cankaoxiaoxi.com/#/generalColumns/gj" type="rss"></outline>
+      <outline text="参考消息-中国" title="参考消息-中国" xmlUrl="https://rsshub.umzzz.com/cankaoxiaoxi/column/zhongguo" htmlUrl="https://china.cankaoxiaoxi.com/#/generalColumns/zhongguo" type="rss"></outline>
+      <outline text="新华社" title="新华社" xmlUrl="https://rsshub.umzzz.com/news/whxw" htmlUrl="http://www.news.cn/xhsxw.htm" type="rss"></outline></body></opml>
   </body>
 </opml>
