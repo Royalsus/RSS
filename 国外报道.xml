@@ -12,5 +12,7 @@
       <outline text="彭博社最新报道" type="rss" xmlUrl="https://bloombergnew.buzzing.cc/feed.xml" htmlUrl="https://bloombergnew.buzzing.cc/feed.json" description="用中文浏览彭博社最新报道"/>
       <outline text="竹新社-TG" title="竹新社-TG" xmlUrl="https://rsshub.umzzz.com/telegram/channel/tnews365" htmlUrl="https://t.me/s/tnews365" type="rss"></outline>
       <outline text="联合早报-中港台" title="联合早报-中港台" xmlUrl="https://rsshub.umzzz.com/zaobao/realtime" htmlUrl="https://www.zaobao.com/realtime/china" type="rss"></outline>
+      <outline text="看鉴中国 OutsightChina" title="看鉴中国 OutsightChina" xmlUrl="https://rss.spriple.org/telegram/channel/OutsightChina" htmlUrl="https://t.me/s/OutsightChina" type="rss"></outline>
+      <outline text="风向旗参考快讯" title="风向旗参考快讯" xmlUrl="https://rss.spriple.org/telegram/channel/xhqcankao" htmlUrl="https://t.me/s/xhqcankao" type="rss"></outline></body></opml>
   </body>
 </opml>
