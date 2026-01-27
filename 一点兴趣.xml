@@ -4,8 +4,13 @@
   <title>一点兴趣</title>
   </head>
   <body>
-      <outline text="微博热搜榜" title="微博热搜榜" xmlUrl="https://rsshub.umzzz.com/weibo/search/hot/fulltext" htmlUrl="https://s.weibo.com/top/summary?cate=realtimehot" type="rss"></outline>
       <outline text="华语口碑剧集榜" title="华语口碑剧集榜" xmlUrl="https://rsshub.umzzz.com/douban/movie/weekly/tv_chinese_best_weekly" htmlUrl="https://m.douban.com/subject_collection/tv_chinese_best_weekly" type="rss"></outline>
       <outline text="全球口碑剧集榜" title="全球口碑剧集榜" xmlUrl="https://rsshub.umzzz.com/douban/list/tv_global_best_weekly" htmlUrl="https://m.douban.com/subject_collection/tv_global_best_weekly" type="rss"></outline>
+      <outline text="微博热搜榜" title="微博热搜榜" xmlUrl="https://rss.spriple.org/weibo/search/hot" htmlUrl="https://s.weibo.com/top/summary?cate=realtimehot" type="rss"></outline>
+      <outline text="百度热搜" title="百度热搜" xmlUrl="https://rss.spriple.org/baidu/top" htmlUrl="https://top.baidu.com/board?tab=realtime" type="rss"></outline>
+      <outline text="雪球-今日话题" title="雪球-今日话题" xmlUrl="https://xueqiu.com/hots/topic/rss" htmlUrl="http://xueqiu.com/hots/topic" type="rss"></outline>
+      <outline text="什么值得买" title="什么值得买" xmlUrl="https://rss.spriple.org/smzdm/haowen/1" htmlUrl="https://post.smzdm.com/hot_1/" type="rss"></outline>
+      <outline text="酷安-今日热门" title="酷安-今日热门" xmlUrl="https://rss.spriple.org/coolapk/hot" htmlUrl="https://www.coolapk.com/" type="rss"></outline>
+      <outline text="即刻精选" title="即刻精选" xmlUrl="https://rss.spriple.org/telegram/channel/jike_collection" htmlUrl="https://t.me/s/jike_collection" type="rss"></outline>
   </body>
 </opml>
