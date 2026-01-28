@@ -10,7 +10,6 @@
       <outline text="百度热搜" title="百度热搜" xmlUrl="https://rss.spriple.org/baidu/top" htmlUrl="https://top.baidu.com/board?tab=realtime" type="rss"></outline>
       <outline text="雪球-今日话题" title="雪球-今日话题" xmlUrl="https://xueqiu.com/hots/topic/rss" htmlUrl="http://xueqiu.com/hots/topic" type="rss"></outline>
       <outline text="什么值得买" title="什么值得买" xmlUrl="https://rss.spriple.org/smzdm/haowen/1" htmlUrl="https://post.smzdm.com/hot_1/" type="rss"></outline>
-      <outline text="酷安-今日热门" title="酷安-今日热门" xmlUrl="https://rss.spriple.org/coolapk/hot" htmlUrl="https://www.coolapk.com/" type="rss"></outline>
       <outline text="即刻精选" title="即刻精选" xmlUrl="https://rss.spriple.org/telegram/channel/jike_collection" htmlUrl="https://t.me/s/jike_collection" type="rss"></outline>
   </body>
 </opml>
