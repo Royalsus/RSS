@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+  <title>碎片关注</title>
+  </head>
+  <body>
+      <outline text="小众软件" title="小众软件" xmlUrl="https://feeds.appinn.com/appinns/" htmlUrl="https://www.appinn.com/" type="rss"></outline>
+      <outline text="豆瓣每月新剧" title="豆瓣每月新剧" xmlUrl="https://rss.spriple.org/douban/recommended/tv" htmlUrl="https://m.douban.com/subject_collection/ECCNAJEGY" type="rss"></outline>
+      <outline text="雪球-今日话题" title="雪球-今日话题" xmlUrl="https://xueqiu.com/hots/topic/rss" htmlUrl="http://xueqiu.com/hots/topic" type="rss"></outline>
+      <outline text="什么值得买" title="什么值得买" xmlUrl="https://rss.spriple.org/smzdm/haowen/1" htmlUrl="https://post.smzdm.com/hot_1/" type="rss"></outline>
+      <outline text="소 진" title="소 진" xmlUrl="https://rss.spriple.org/picnob/user/ttodini" htmlUrl="https://www.pixnoy.com/profile/ttodini/" type="rss"></outline>
+      <outline text="is Lu" title="is Lu" xmlUrl="https://rss.spriple.org/picnob/user/ly_ameliorate" htmlUrl="https://www.pixnoy.com/profile/ly_ameliorate/" type="rss"></outline>
+      <outline text="DAYIN" title="DAYIN" xmlUrl="https://rss.spriple.org/picnob/user/dayin_kr" htmlUrl="https://www.pixnoy.com/profile/dayin_kr/" type="rss"></outline>
+  </body>
+</opml>

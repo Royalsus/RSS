@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+  <title>中文报道</title>
+  </head>
+  <body>
+      <outline text="澎湃新闻" title="澎湃新闻" xmlUrl="https://rss.spriple.org/thepaper/featured" htmlUrl="https://m.thepaper.cn/" type="rss"></outline>
+      <outline text="南方周末-新闻" title="南方周末-新闻" xmlUrl="https://rss.spriple.org/infzm/2" htmlUrl="https://www.infzm.com/contents?term_id=2" type="rss"></outline>
+      <outline text="参考消息-国际" title="参考消息-国际" xmlUrl="https://rss.spriple.org/cankaoxiaoxi/column/gj" htmlUrl="https://china.cankaoxiaoxi.com/#/generalColumns/gj" type="rss"></outline>
+      <outline text="参考消息-中国" title="参考消息-中国" xmlUrl="https://rss.spriple.org/cankaoxiaoxi/column/zhongguo" htmlUrl="https://china.cankaoxiaoxi.com/#/generalColumns/zhongguo" type="rss"></outline>
+      <outline text="新华社" title="新华社" xmlUrl="https://rss.spriple.org/news/whxw" htmlUrl="http://www.news.cn/xhsxw.htm" type="rss"></outline>
+      <outline text="彭博社最新报道" type="rss" xmlUrl="https://bloombergnew.buzzing.cc/feed.xml" htmlUrl="https://bloombergnew.buzzing.cc/feed.json" description="用中文浏览彭博社最新报道"/>
+      <outline text="联合早报-中港台" title="联合早报-中港台" xmlUrl="https://rss.spriple.org/zaobao/realtime" htmlUrl="https://www.zaobao.com/realtime/china" type="rss"></outline>
+      </body></opml>
+  </body>
+</opml>

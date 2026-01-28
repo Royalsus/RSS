@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+  <title>英文报道</title>
+  </head>
+  <body>
+      <outline text="New York Times" title="New York Times" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" htmlUrl="https://www.nytimes.com/" type="rss"></outline>
+      <outline text="The Daily" title="The Daily" xmlUrl="https://feeds.simplecast.com/54nAGcIl" htmlUrl="https://www.nytimes.com/the-daily" type="rss"></outline>
+      <outline text="BBC News" title="BBC News" xmlUrl="https://rss.spriple.org/bbc" htmlUrl="https://www.bbc.co.uk/news" type="rss"></outline>
+      <outline text="Reuters" title="Reuters" xmlUrl="https://rss.spriple.org/reuters/world" htmlUrl="https://www.reuters.com/world/" type="rss"></outline>
+      <outline text="Al Jazeera-半岛电视台" type="rss" xmlUrl="https://www.aljazeera.com/xml/rss/all.xml" htmlUrl="https://www.aljazeera.com/" description="Breaking News, World News and Video from Al Jazeera"/>
+      <outline text="Bellingcat-开源情报调查" type="rss" xmlUrl="https://www.bellingcat.com/feed/" htmlUrl="https://www.bellingcat.com/" description="the home of online investigations"/>
+      <outline text="DER SPIEGEL-明镜周刊" type="rss" xmlUrl="https://www.spiegel.de/international/index.rss" htmlUrl="https://www.spiegel.de/" description="Deutschlands führende Nachrichtenseite. Alles Wichtige aus Politik, Wirtschaft, Sport, Kultur, Wissenschaft, Technik und mehr."/>
+      <outline text="ProPublica-美国非营利新闻" type="rss" xmlUrl="https://www.propublica.org/feeds/propublica/main" htmlUrl="https://www.propublica.org/" description="Latest Articles and Investigations from ProPublica, an independent, non-profit newsroom that produces investigative journalism in the public interest."/>
+      <outline text="The Intercept-美国调查新闻" type="rss" xmlUrl="https://theintercept.com/feed/?rss" htmlUrl="https://theintercept.com/"/>
+      </body></opml>
+  </body>
+</opml>
