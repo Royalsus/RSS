@@ -10,7 +10,8 @@
       <outline text="小众软件" title="小众软件" xmlUrl="https://feeds.appinn.com/appinns/" htmlUrl="https://www.appinn.com/" type="rss"></outline>
       <outline text="豆瓣每月新剧" title="豆瓣每月新剧" xmlUrl="https://rss.spriple.org/douban/recommended/tv" htmlUrl="https://m.douban.com/subject_collection/ECCNAJEGY" type="rss"></outline>
       <outline text="雪球-今日话题" title="雪球-今日话题" xmlUrl="https://xueqiu.com/hots/topic/rss" htmlUrl="http://xueqiu.com/hots/topic" type="rss"></outline>
-      <outline text="什么值得买" title="什么值得买" xmlUrl="https://rss.spriple.org/smzdm/haowen/1" htmlUrl="https://post.smzdm.com/hot_1/" type="rss"></outline>
       <outline text="Buzzing" title="Buzzing" xmlUrl="https://www.buzzing.cc/feed.xml" htmlUrl="https://www.buzzing.cc/" type="rss"></outline>
+      <outline text="1x.com • In Pursuit of the Sublime" title="1x.com • In Pursuit of the Sublime" xmlUrl="https://rss.spriple.org/1x" htmlUrl="https://1x.com/gallery/latest/awarded" type="rss"></outline>
+      <outline text="Nature | Latest Research" title="Nature | Latest Research" xmlUrl="https://rss.spriple.org/nature/research/nature" htmlUrl="https://www.nature.com/nature/research-articles" type="rss"></outline>
   </body>
 </opml>

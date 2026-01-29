@@ -10,6 +10,5 @@
       <outline text="参考消息-中国" title="参考消息-中国" xmlUrl="https://rss.spriple.org/cankaoxiaoxi/column/zhongguo" htmlUrl="https://china.cankaoxiaoxi.com/#/generalColumns/zhongguo" type="rss"></outline>
       <outline text="新华社" title="新华社" xmlUrl="https://rss.spriple.org/news/whxw" htmlUrl="http://www.news.cn/xhsxw.htm" type="rss"></outline>
       <outline text="联合早报-中港台" title="联合早报-中港台" xmlUrl="https://rss.spriple.org/zaobao/realtime" htmlUrl="https://www.zaobao.com/realtime/china" type="rss"></outline>
-      </body></opml>
   </body>
 </opml>

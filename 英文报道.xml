@@ -13,6 +13,6 @@
       <outline text="DER SPIEGEL-明镜周刊" type="rss" xmlUrl="https://www.spiegel.de/international/index.rss" htmlUrl="https://www.spiegel.de/" description="Deutschlands führende Nachrichtenseite. Alles Wichtige aus Politik, Wirtschaft, Sport, Kultur, Wissenschaft, Technik und mehr."/>
       <outline text="ProPublica-美国非营利新闻" type="rss" xmlUrl="https://www.propublica.org/feeds/propublica/main" htmlUrl="https://www.propublica.org/" description="Latest Articles and Investigations from ProPublica, an independent, non-profit newsroom that produces investigative journalism in the public interest."/>
       <outline text="The Intercept-美国调查新闻" type="rss" xmlUrl="https://theintercept.com/feed/?rss" htmlUrl="https://theintercept.com/"/>
-      </body></opml>
+      <outline text="The New Yorker" title="The New Yorker" xmlUrl="https://rss.spriple.org/newyorker/latest" htmlUrl="https://www.newyorker.com/" type="rss"></outline>
   </body>
 </opml>
